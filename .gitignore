@@ -1,2 +1,5 @@
 *.sublime-project
 *.sublime-workspace
+_site
+.sass-cache
+.jekyll-metadata
