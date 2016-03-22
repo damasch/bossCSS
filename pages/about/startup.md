@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Start Up
+title: bossCSS - Start Up
 permalink: /about/startup.html
 menu: false
 ---

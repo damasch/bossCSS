@@ -1,6 +1,6 @@
 ---
-layout: bossCSS - page
-title: BEM
+layout: page
+title: bossCSS - OO CSS
 permalink: /concept/oo-css.html
 ---
 OO-CSS

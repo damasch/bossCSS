@@ -1,6 +1,6 @@
 ---
-layout: bossCSS - page
-title: Class development
+layout: page
+title: bossCSS - Class development
 permalink: /concept/class-development.html
 ---
 
