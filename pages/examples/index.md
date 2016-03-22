@@ -47,7 +47,7 @@ The markup for these properteries could be developed maybe like this way.
 </div>
 ```
 
-### The other way
+## Let's think about classes
 
 It's not nessesary to rebuild the dom structure.
 Persona, Contact and Postal are wording groups for our definitions.
