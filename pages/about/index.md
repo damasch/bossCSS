@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bossCSS - page
 title: About
 permalink: /about/index.html
 ---
