@@ -2,15 +2,15 @@
 	"nav" : [
 		{
 			"title": "About",
-			"link": "/about/index.hml"
+			"link": "/about/index.html"
 		},
 		{
 			"title": "Concept",
-			"link": "/concept/index.hml", 
+			"link": "/concept/index.html", 
 			"sub" : [
 				{
 					"title": "About",
-					"link": "/about/index.hml"
+					"link": "/about/index.html"
 				}
 			]
 		},
