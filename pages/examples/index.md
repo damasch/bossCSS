@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bossCSS - Examples
+title: Examples
 permalink: /examples/index.html
 ---
 ## Introdution

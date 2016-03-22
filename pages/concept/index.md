@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bossCSS -  Concept
+title: Concept
 permalink: /concept/index.html
 ---
 Concept

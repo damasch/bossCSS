@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bossCSS - Example for a default class
+title: Example for a default class
 permalink: /examples/example_default_class.html
 ---
 

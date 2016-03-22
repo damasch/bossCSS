@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bossCSS - Example for a modified class
+title: Example for a modified class
 permalink: /examples/example_modified_class.html
 ---
 

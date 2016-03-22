@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bossCSS - BEM
+title: BEM
 permalink: /concept/bem-css.html
 ---
 BEM
