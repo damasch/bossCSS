@@ -9,7 +9,7 @@
 title: bossCSS - CSS Architecture
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  BossCSS the definition of SASS Obejct oreiented development
+  BossCSS the definition of SASS object oriented development
 port: 6001
 host: localhost
 baseurl: "/bossCSS" # the subpath of your site, e.g. /blog
